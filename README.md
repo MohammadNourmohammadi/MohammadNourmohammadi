@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nourmohammadi</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadnourmohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadnourmohammadi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadnourmohammadi" alt="mohammadnourmohammadi" /></a> </p>
-
 - 🔭 I’m currently studying at **Amirkabir University of Technology**
 
 - 🌱 I’m currently learning **algorithm and software engineering**
